@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1e41dc5-30bf-4a41-a228-f872d0c2791f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1j5DvRS4FcIZRCAlSAtKqr7712T" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Env/Yarn" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\WorkSpace\WebStorm\KaoYanNotes\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="D:\Program\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager" selected="npm.docs:build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e41dc5-30bf-4a41-a228-f872d0c2791f" name="Default Changelist" comment="" />
+      <created>1603085288855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603085288855</updated>
+      <workItem from="1603085290289" duration="553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="916" height="279" key="GridCell.Tab.0.bottom" timestamp="1603085886913">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1603085886913" />
+    <state width="916" height="279" key="GridCell.Tab.0.center" timestamp="1603085886913">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1603085886913" />
+    <state width="916" height="279" key="GridCell.Tab.0.left" timestamp="1603085886912">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1603085886912" />
+    <state width="916" height="279" key="GridCell.Tab.0.right" timestamp="1603085886913">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="916" height="279" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1603085886913" />
+  </component>
+</project>
